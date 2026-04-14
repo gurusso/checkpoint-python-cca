@@ -29,3 +29,5 @@ else:
 
     elif a == b or b == c or a == c:
         print("TRIANGULO ISOSCELES")
+
+print("---FIM---")
